@@ -560,6 +560,9 @@ iframe {
     height: 100vh;
     justify-items: center;
   }
+  .home__data {
+    margin-left: 3rem;
+  }
   .services__container,
   .menu__container {
     margin-top: var(--mb-6);
